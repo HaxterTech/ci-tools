@@ -7,4 +7,3 @@ RUN pip install --upgrade pip
 RUN pip install docker-compose
 RUN pip install cffi
 RUN pip install fabric
-RUN fab
